@@ -1,5 +1,5 @@
 # ADOU24 - GitHub Platform Tutorial (GPT)
-
+HI
 This repository serves to hold the training materials and resources for the full-day GitHub Platform Tutorial.
 Hi
 ## General Resources 
