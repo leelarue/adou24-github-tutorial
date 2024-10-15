@@ -1,4 +1,4 @@
-# adou24-sandbox for GitHub Platform Tutorial (GPT)
+# ADOU24 - GitHub Platform Tutorial (GPT)
 
 This repository serves to hold the training materials and resources for the full-day GitHub Platform Tutorial.
 
