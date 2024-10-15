@@ -1,7 +1,7 @@
 # ADOU24 - GitHub Platform Tutorial (GPT)
 
 This repository serves to hold the training materials and resources for the full-day GitHub Platform Tutorial.
-
+Hi
 ## General Resources 
 - [Markdown Guide / Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
