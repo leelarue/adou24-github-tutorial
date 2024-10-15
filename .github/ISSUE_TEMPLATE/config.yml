@@ -1,0 +1,7 @@
+# This will enforce that submitters create issues the way we want
+
+blank_issues_enabled: true
+contact_links:
+  - name: GitHub Issue Templates
+    url: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository
+    about: Learn how we did this!
